@@ -13,3 +13,13 @@ h1 {
 	font-size: 12px;
 	color: #242424;
 } 
+
+.catalog {
+	width: 100%;
+}	
+
+.card {
+	width: 30%;
+	height: 50px;
+	background-color: #486db1;
+}
